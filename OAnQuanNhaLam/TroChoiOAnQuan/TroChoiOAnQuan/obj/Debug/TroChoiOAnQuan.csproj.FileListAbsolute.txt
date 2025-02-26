@@ -1,0 +1,9 @@
+E:\Code_SinhVienNam3\THTTNT\OAnQuanNhaLam\TroChoiOAnQuan\TroChoiOAnQuan\bin\Debug\TroChoiOAnQuan.exe.config
+E:\Code_SinhVienNam3\THTTNT\OAnQuanNhaLam\TroChoiOAnQuan\TroChoiOAnQuan\bin\Debug\TroChoiOAnQuan.exe
+E:\Code_SinhVienNam3\THTTNT\OAnQuanNhaLam\TroChoiOAnQuan\TroChoiOAnQuan\bin\Debug\TroChoiOAnQuan.pdb
+E:\Code_SinhVienNam3\THTTNT\OAnQuanNhaLam\TroChoiOAnQuan\TroChoiOAnQuan\obj\Debug\TroChoiOAnQuan.MainChinh.resources
+E:\Code_SinhVienNam3\THTTNT\OAnQuanNhaLam\TroChoiOAnQuan\TroChoiOAnQuan\obj\Debug\TroChoiOAnQuan.Properties.Resources.resources
+E:\Code_SinhVienNam3\THTTNT\OAnQuanNhaLam\TroChoiOAnQuan\TroChoiOAnQuan\obj\Debug\TroChoiOAnQuan.csproj.GenerateResource.Cache
+E:\Code_SinhVienNam3\THTTNT\OAnQuanNhaLam\TroChoiOAnQuan\TroChoiOAnQuan\obj\Debug\TroChoiOAnQuan.exe
+E:\Code_SinhVienNam3\THTTNT\OAnQuanNhaLam\TroChoiOAnQuan\TroChoiOAnQuan\obj\Debug\TroChoiOAnQuan.pdb
+E:\Code_SinhVienNam3\THTTNT\OAnQuanNhaLam\TroChoiOAnQuan\TroChoiOAnQuan\obj\Debug\TroChoiOAnQuan.csprojResolveAssemblyReference.cache
